@@ -73,26 +73,17 @@ Each day includes:
 | 30  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | ✅ Completed |
 | 31  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
 | 32  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ Completed |
+| 33  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 31 Update:
-Today was all about patterns and prime intuition:  
-- 🧩 **DSA:** Next Greater Element I — mastering stack-based monotonic patterns  
-- 🔢 **Math:** Count Primes — implemented the classic Sieve of Eratosthenes for optimized performance
-
-The journey continues — with every new problem, the mindset and muscle for problem-solving grows stronger. 🚀  
-Appreciation as always to Shriram R sir and the Placement Team for designing this life-changing initiative.
-
----
-
-### Day 32 Update:
+### Day 33 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **DSA:** [Rotate Image](https://leetcode.com/problems/rotate-image/) — Applied matrix transformation logic using transpose and reverse techniques.  
-- 🌳 **Math/DSA:** [Level Order Traversal of Binary Tree](https://leetcode.com/problems/binary-tree-level-order-traversal/) — Practiced BFS traversal using queues.
+- 🔄 **DSA:** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) — Implemented level-order traversal to capture the rightmost node at each level using queues.
+- 🌳 **String:** [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) — Learned how to construct the smallest possible palindrome by modifying characters symmetrically and greedily selecting the minimum at each mismatch.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
