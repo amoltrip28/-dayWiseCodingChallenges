@@ -74,16 +74,17 @@ Each day includes:
 | 31  | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Count Primes](https://leetcode.com/problems/count-primes/) | ✅ Completed |
 | 32  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ Completed |
 | 33  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | ✅ Completed |
+| 34  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 33 Update:
+### Day 34 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **DSA:** [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) — Implemented level-order traversal to capture the rightmost node at each level using queues.
-- 🌳 **String:** [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) — Learned how to construct the smallest possible palindrome by modifying characters symmetrically and greedily selecting the minimum at each mismatch.
+- 🔄 **Binary Tree:** [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) — Applied recursive postorder traversal to transform a binary tree into a right-skewed linked list in-place, maintaining preorder sequence.
+- 🌳 **String:** [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) — Implemented efficient backward traversal to determine the length of the last word in a string while handling trailing spaces.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
