@@ -75,16 +75,17 @@ Each day includes:
 | 32  | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ✅ Completed |
 | 33  | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | [Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/) | ✅ Completed |
 | 34  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ✅ Completed |
+| 35  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 34 Update:
+### Day 35 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary Tree:** [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) — Applied recursive postorder traversal to transform a binary tree into a right-skewed linked list in-place, maintaining preorder sequence.
-- 🌳 **String:** [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) — Implemented efficient backward traversal to determine the length of the last word in a string while handling trailing spaces.
+- 🔄 **Binary Tree:** [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) — Utilized recursive DFS to trace the paths to the target nodes and identify their lowest common ancestor by propagating results from child nodes.
+- 🌳 **Strings:** [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) — Used a simple linear scan with space-check logic to count non-empty word segments, effectively handling multiple spaces and edge cases.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
