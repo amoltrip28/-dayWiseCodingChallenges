@@ -77,16 +77,17 @@ Each day includes:
 | 34  | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | ✅ Completed |
 | 35  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | ✅ Completed |
 | 36  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Completed |
+| 37  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 36 Update:
+### Day 37 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary Tree:** [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) — Applied recursive DFS to traverse all root-to-leaf paths, constructing numbers by accumulating digit values along the path and summing them at leaf nodes.
-- 🌳 **Strings:** [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) — Implemented a two-pointer approach to efficiently swap vowels in-place from both ends of the string while skipping non-vowel characters.
+- 🔄 **Binary Tree:** [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) — Used breadth-first search (BFS) with a direction flag to traverse the tree level by level, alternating between left-to-right and right-to-left order to build the zigzag pattern.
+- 🌳 **Strings:** [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) — Iterated through the list of strings to identify and return the first palindrome by checking character symmetry from both ends.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
