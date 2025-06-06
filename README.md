@@ -78,16 +78,17 @@ Each day includes:
 | 35  | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | ✅ Completed |
 | 36  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Completed |
 | 37  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | ✅ Completed |
+| 38  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 37 Update:
+### Day 38 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary Tree:** [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) — Used breadth-first search (BFS) with a direction flag to traverse the tree level by level, alternating between left-to-right and right-to-left order to build the zigzag pattern.
-- 🌳 **Strings:** [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) — Iterated through the list of strings to identify and return the first palindrome by checking character symmetry from both ends.
+- 🔄 **Binary search Tree:** [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) — Utilized the properties of BSTs to implement an efficient recursive search that narrows down the path based on value comparisons, achieving optimal traversal.
+- 🌳 **Strings:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Applied a two-pointer approach to verify whether a string is a palindrome by skipping non-alphanumeric characters and performing case-insensitive comparisons from both ends.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
