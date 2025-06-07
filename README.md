@@ -79,16 +79,17 @@ Each day includes:
 | 36  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | ✅ Completed |
 | 37  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | ✅ Completed |
 | 38  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
+| 39  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 38 Update:
+### Day 39 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) — Utilized the properties of BSTs to implement an efficient recursive search that narrows down the path based on value comparisons, achieving optimal traversal.
-- 🌳 **Strings:** [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) — Applied a two-pointer approach to verify whether a string is a palindrome by skipping non-alphanumeric characters and performing case-insensitive comparisons from both ends.
+- 🔄 **Binary search Tree:** [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) —  Implemented a recursive insertion algorithm leveraging BST properties, ensuring correct placement based on value comparison while maintaining tree structure.
+- 🌳 **Strings:** [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) — Utilized a stack-based approach to iteratively remove adjacent duplicates, achieving linear time complexity and preserving the intended string order.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
