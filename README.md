@@ -80,16 +80,18 @@ Each day includes:
 | 37  | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/) | ✅ Completed |
 | 38  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
 | 39  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ✅ Completed |
+| 40  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Rotate String](https://leetcode.com/problems/rotate-string/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 39 Update:
+### Day 40 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) —  Implemented a recursive insertion algorithm leveraging BST properties, ensuring correct placement based on value comparison while maintaining tree structure.
-- 🌳 **Strings:** [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) — Utilized a stack-based approach to iteratively remove adjacent duplicates, achieving linear time complexity and preserving the intended string order.
+- 🔄 **Binary search Tree:** [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) —  Applied a recursive approach utilizing the BST property to efficiently trace the path to the lowest common ancestor of two nodes, ensuring optimal traversal.
+- 🌳 **Strings:** [Rotate String](https://leetcode.com/problems/rotate-string/) — Implemented both STL and non-STL methods to verify if one string is a rotation of another, exploring cyclic comparisons and modular arithmetic for rotation simulation.
+
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
