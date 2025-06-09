@@ -81,16 +81,17 @@ Each day includes:
 | 38  | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ✅ Completed |
 | 39  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ✅ Completed |
 | 40  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Rotate String](https://leetcode.com/problems/rotate-string/) | ✅ Completed |
+| 41  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 40 Update:
+### Day 41 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) —  Applied a recursive approach utilizing the BST property to efficiently trace the path to the lowest common ancestor of two nodes, ensuring optimal traversal.
-- 🌳 **Strings:** [Rotate String](https://leetcode.com/problems/rotate-string/) — Implemented both STL and non-STL methods to verify if one string is a rotation of another, exploring cyclic comparisons and modular arithmetic for rotation simulation.
+- 🔄 **Binary search Tree:** [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) —   Implemented a recursive approach that handles all deletion scenarios, including leaf nodes, nodes with one child, and nodes with two children, using the inorder successor for proper restructuring.
+- 🌳 **Strings:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — Utilized both horizontal scanning and sorting-based techniques to efficiently determine the common prefix among a set of strings, optimizing for early termination.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
