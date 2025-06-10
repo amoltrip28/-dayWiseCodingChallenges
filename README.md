@@ -91,7 +91,7 @@ Each day includes:
 ### Day 42 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) —    Applied a recursive approach with range validation (min and max) to ensure each node satisfies the BST property, enabling accurate verification even in deeply nested subtrees.
+- 🔄 **Binary search Tree:** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) — Applied a recursive approach with range validation (min and max) to ensure each node satisfies the BST property, enabling accurate verification even in deeply nested subtrees.
 - 🌳 **Strings:** [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — Implemented trimming and reverse iteration to efficiently split the string and rebuild it with words in reverse order, eliminating extra spaces and handling edge cases.
 
 
