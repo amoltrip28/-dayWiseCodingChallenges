@@ -82,16 +82,17 @@ Each day includes:
 | 39  | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | ✅ Completed |
 | 40  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Rotate String](https://leetcode.com/problems/rotate-string/) | ✅ Completed |
 | 41  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Completed |
+| 42  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 41 Update:
+### Day 42 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) —   Implemented a recursive approach that handles all deletion scenarios, including leaf nodes, nodes with one child, and nodes with two children, using the inorder successor for proper restructuring.
-- 🌳 **Strings:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) — Utilized both horizontal scanning and sorting-based techniques to efficiently determine the common prefix among a set of strings, optimizing for early termination.
+- 🔄 **Binary search Tree:** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) —    Applied a recursive approach with range validation (min and max) to ensure each node satisfies the BST property, enabling accurate verification even in deeply nested subtrees.
+- 🌳 **Strings:** [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — Implemented trimming and reverse iteration to efficiently split the string and rebuild it with words in reverse order, eliminating extra spaces and handling edge cases.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
