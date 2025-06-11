@@ -83,16 +83,17 @@ Each day includes:
 | 40  | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Rotate String](https://leetcode.com/problems/rotate-string/) | ✅ Completed |
 | 41  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Completed |
 | 42  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Completed |
+| 43  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 42 Update:
+### Day 43 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) — Applied a recursive approach with range validation (min and max) to ensure each node satisfies the BST property, enabling accurate verification even in deeply nested subtrees.
-- 🌳 **Strings:** [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) — Implemented trimming and reverse iteration to efficiently split the string and rebuild it with words in reverse order, eliminating extra spaces and handling edge cases.
+- 🔄 **Binary search Tree:** [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) — Utilized an inorder traversal strategy to exploit the BST's inherent order, tracking node visits to efficiently locate the k-th smallest element.
+- 🌳 **Strings:** [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) — Simulated the zigzag pattern using directional tracking and row-wise accumulation to reconstruct the string in the required order.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
