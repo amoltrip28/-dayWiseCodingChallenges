@@ -84,16 +84,17 @@ Each day includes:
 | 41  | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | ✅ Completed |
 | 42  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Completed |
 | 43  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ✅ Completed |
+| 44  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 43 Update:
+### Day 44 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) — Utilized an inorder traversal strategy to exploit the BST's inherent order, tracking node visits to efficiently locate the k-th smallest element.
-- 🌳 **Strings:** [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) — Simulated the zigzag pattern using directional tracking and row-wise accumulation to reconstruct the string in the required order.
+- 🔄 **Binary search Tree:** [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) — Implemented a fast and slow pointer technique to find the middle node of the sorted list, recursively converting it into a height-balanced BST by dividing the list into left and right halves.
+- 🌳 **Strings:** [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) — Employed a sliding window approach to efficiently track the number of vowels in substrings of length k, updating the count dynamically for optimal performance.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
