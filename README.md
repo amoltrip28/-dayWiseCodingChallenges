@@ -85,16 +85,17 @@ Each day includes:
 | 42  | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ Completed |
 | 43  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ✅ Completed |
 | 44  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
+| 45  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 44 Update:
+### Day 45 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Binary search Tree:** [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) — Implemented a fast and slow pointer technique to find the middle node of the sorted list, recursively converting it into a height-balanced BST by dividing the list into left and right halves.
-- 🌳 **Strings:** [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) — Employed a sliding window approach to efficiently track the number of vowels in substrings of length k, updating the count dynamically for optimal performance.
+- 🔄 **Graph** [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) — Utilized trust score tracking by maintaining an array where each person’s trust gain and loss are recorded, identifying the town judge as the person trusted by everyone else but who trusts no one.
+- 🌳 **Strings:** [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — Verified that both strings are concatenation-compatible and applied the Euclidean algorithm on their lengths to extract the greatest common base substring.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
