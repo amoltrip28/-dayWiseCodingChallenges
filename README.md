@@ -86,16 +86,17 @@ Each day includes:
 | 43  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ✅ Completed |
 | 44  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
 | 45  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | ✅ Completed |
+| 46  | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 45 Update:
+### Day 46 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Graph** [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) — Utilized trust score tracking by maintaining an array where each person’s trust gain and loss are recorded, identifying the town judge as the person trusted by everyone else but who trusts no one.
-- 🌳 **Strings:** [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) — Verified that both strings are concatenation-compatible and applied the Euclidean algorithm on their lengths to extract the greatest common base substring.
+- 🔄 **Graphs** [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) — Determined the central node by identifying the common vertex in the first two edges, leveraging the unique structure of a star graph where all nodes connect to a single center.
+- 🌳 **Bit manipulation:** [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) —  Iterated through the range, used bit counting to determine the number of set bits, and verified primality using a precomputed set for efficient lookup.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
