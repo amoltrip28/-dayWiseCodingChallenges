@@ -87,16 +87,17 @@ Each day includes:
 | 44  | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | ✅ Completed |
 | 45  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | ✅ Completed |
 | 46  | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
+| 47  | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 46 Update:
+### Day 47 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Graphs** [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) — Determined the central node by identifying the common vertex in the first two edges, leveraging the unique structure of a star graph where all nodes connect to a single center.
-- 🌳 **Bit manipulation:** [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) —  Iterated through the range, used bit counting to determine the number of set bits, and verified primality using a precomputed set for efficient lookup.
+- 🔄 **Sliding Window** [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) — Applied a sliding window approach to efficiently count substrings that include at least one occurrence of 'a', 'b', and 'c', dynamically shrinking the window while tracking character frequencies.
+- 🌳 **Bit manipulation:** [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) —  Used Brian Kernighan’s algorithm to count set bits in binary representation, optimizing the bit count by removing the least significant set bit in each iteration.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
