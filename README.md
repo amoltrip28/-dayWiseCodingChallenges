@@ -88,16 +88,17 @@ Each day includes:
 | 45  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | ✅ Completed |
 | 46  | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
 | 47  | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Completed |
+| 48  | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | [Hamming Distance](https://leetcode.com/problems/partition-equal-subset-sum/description/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 47 Update:
+### Day 48 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Sliding Window** [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) — Applied a sliding window approach to efficiently count substrings that include at least one occurrence of 'a', 'b', and 'c', dynamically shrinking the window while tracking character frequencies.
-- 🌳 **Bit manipulation:** [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) —  Used Brian Kernighan’s algorithm to count set bits in binary representation, optimizing the bit count by removing the least significant set bit in each iteration.
+- 🔄 **Number Theory:** [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) — Applied Bézout's identity and used the GCD of all array elements to determine if 1 can be expressed as their linear combination, confirming the array's "good" status if the GCD is 1.
+- 🌳 **Dynamic Programming:** [Hamming Distance](https://leetcode.com/problems/partition-equal-subset-sum/description/) —  Utilized a bottom-up DP approach to solve the subset sum problem by checking if a subset with sum equal to half of the total exists, using space-optimized boolean DP array.
 
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
