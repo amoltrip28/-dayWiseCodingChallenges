@@ -89,17 +89,17 @@ Each day includes:
 | 46  | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | ✅ Completed |
 | 47  | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Completed |
 | 48  | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | [Hamming Distance](https://leetcode.com/problems/partition-equal-subset-sum/description/) | ✅ Completed |
+| 49  | [Count Primes](https://leetcode.com/problems/count-primes/) | [Single Number](https://leetcode.com/problems/single-number/description/) | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 48 Update:
+### Day 49 Update:
 Today I tackled two key concepts crucial for interviews:
 
-- 🔄 **Number Theory:** [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) — Applied Bézout's identity and used the GCD of all array elements to determine if 1 can be expressed as their linear combination, confirming the array's "good" status if the GCD is 1.
-- 🌳 **Dynamic Programming:** [Hamming Distance](https://leetcode.com/problems/partition-equal-subset-sum/description/) —  Utilized a bottom-up DP approach to solve the subset sum problem by checking if a subset with sum equal to half of the total exists, using space-optimized boolean DP array.
-
+- 🔄 **Number Theory:** [Count Primes](https://leetcode.com/problems/count-primes/) — Implemented the Sieve of Eratosthenes to efficiently count all prime numbers less than n, marking non-primes and incrementing the count accordingly.
+- 🌳 **Bit Manipulation** [Single Number](https://leetcode.com/problems/single-number/description/) —  Leveraged XOR properties to identify the unique element that appears only once while all others appear twice, achieving linear time and constant space complexity.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
