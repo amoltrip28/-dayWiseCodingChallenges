@@ -90,16 +90,16 @@ Each day includes:
 | 47  | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ✅ Completed |
 | 48  | [Check If It Is a Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/) | [Hamming Distance](https://leetcode.com/problems/partition-equal-subset-sum/description/) | ✅ Completed |
 | 49  | [Count Primes](https://leetcode.com/problems/count-primes/) | [Single Number](https://leetcode.com/problems/single-number/description/) | ✅ Completed |
+| 50  | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | []() | ✅ Completed |
 
 ---
 
 ## 📢 Daily Updates
 
-### Day 49 Update:
-Today I tackled two key concepts crucial for interviews:
+### Day 50 Update:
+Today I complete my 50 days of coding challenge:
 
-- 🔄 **Number Theory:** [Count Primes](https://leetcode.com/problems/count-primes/) — Implemented the Sieve of Eratosthenes to efficiently count all prime numbers less than n, marking non-primes and incrementing the count accordingly.
-- 🌳 **Bit Manipulation** [Single Number](https://leetcode.com/problems/single-number/description/) —  Leveraged XOR properties to identify the unique element that appears only once while all others appear twice, achieving linear time and constant space complexity.
+- 🔄 **Greedy Strings** [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) — Applied a greedy approach by scanning from left to right to find the first non-'a' character (excluding the center in odd-length strings) and replacing it with 'a' to achieve the lexicographically smallest non-palindromic string. If no such change was possible, the last character was changed to 'b'.
 
 Every challenge is making my fundamentals stronger. Huge thanks to Shriram R sir and the Placement Team for designing this impactful learning journey. Let’s keep climbing! 🚀
 
